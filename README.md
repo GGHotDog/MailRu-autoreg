@@ -1,5 +1,6 @@
 <br/>
 <p align="center">
+  <img src='https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png' width=100>
   <h3 align="center">Mail Ru autoreg</h3>
 
   <p align="center">
